@@ -33,7 +33,7 @@ This guide walks you through the basic Git workflow: initializing a repository, 
 2. Verify that `git` is installed by running the command `git --version`
 3. If `git` is not installed, install it by running `apt install git -y`
 
-
+[X] Complete
 ### Exercise 1: Initialize a Git Repository
 
 **Goal**: Create a new directory and initialize it as a Git repository.
@@ -41,6 +41,7 @@ This guide walks you through the basic Git workflow: initializing a repository, 
 
 ✅ *Check*: Run `ls -la` to verify that a `.git` directory was created.  Git stores all of its tracking information in a series of files in the `.git` directory.
 
+[X] Complete
 ---
 
 ### Exercise 2: Create and Modify a File
@@ -52,6 +53,7 @@ This guide walks you through the basic Git workflow: initializing a repository, 
 INFO: Line 1 Creates the hello.txt file and adds the line "Hello, Git!"  
 INFO: Line 2 'cat' is short for concatenate, it chains files together into a single output, in this example, your screen is the default output
 
+[X] Complete
 ---
 
 ### Exercise 3: Stage the File
@@ -61,6 +63,7 @@ INFO: Line 2 'cat' is short for concatenate, it chains files together into a sin
 
 ✅ *Check*: Run `git status` again and verify that the change is staged.  How is the output of `git status` different than the previous step? You can specify a directory to stage all changes in that directory at once.
 
+[X] Complete
 ---
 
 ### Exercise 4: Commit the File
@@ -74,6 +77,7 @@ What does the output show?  Now commit your staged change with a descriptive mes
 
 ✅ *Check*: Run `git status` to see the new status, run `git log` to see your first commit.
 
+[X] Complete
 ---
 
 ### Exercise 5: Make a Change and Commit Again
@@ -83,6 +87,7 @@ What does the output show?  Now commit your staged change with a descriptive mes
 
 ✅ *Check*: Use `git log` and `cat hello.txt` to verify your commit and file contents.
 
+[X] Complete
 ---
 
 ### Exercise 6: Commit a Second File
@@ -94,6 +99,7 @@ Create a second and third file, but only stage and commit the second file.
 
 ✅ *Check*: Run `git status` (should show nothing to commit), and `git log --oneline` to see a summary of commits.
 
+[X] Complete
 ---
 
 ## Hands-On #2 Exercises
