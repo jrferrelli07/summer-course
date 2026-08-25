@@ -1,5 +1,7 @@
 # Lesson 04 - DevSecOps: Principles and Practices
 
+Lecture audio transcript (ASR, low-bitrate recording): [DevSecOps01 transcript.md](DevSecOps01%20transcript.md)
+
 This repository explores the integration of security into the DevOps lifecycle, drawing from industrial philosophies like the Toyota Production System and Lean management to optimize software development value streams.
 
 ## 🎯 Lesson Objectives
